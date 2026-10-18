@@ -1,2 +1,2 @@
 # Chemical-Kinetics-Research
-An independent chemical kinetics data analysis
+An independent chemical kinetics data analysis project
